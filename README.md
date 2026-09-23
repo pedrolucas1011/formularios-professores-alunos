@@ -29,3 +29,4 @@ npm run dev
 
 Abra no navegador o endereço mostrado no terminal
 
+<img width="1912" height="1077" alt="Captura de tela 2026-09-23 095804" src="https://github.com/user-attachments/assets/aa680ac9-5670-49ee-9adc-890797cde419" />
